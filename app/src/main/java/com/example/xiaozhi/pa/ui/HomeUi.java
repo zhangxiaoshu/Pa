@@ -39,6 +39,9 @@ public class HomeUi extends AppCompatActivity {
        // ButterKnife.bind(this);
        // Activity
 
+        //测试git提交时项目冲突的解决方法5
+        String s5 = "你是谁5，管你是谁5，提交项目5";
+
         ViewUtils.inject(this);
 
         //  mRgMenu = (RadioGroup) findViewById(R.id.home_rg_menu);
