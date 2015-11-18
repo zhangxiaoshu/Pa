@@ -28,6 +28,9 @@ public class HomeUi extends AppCompatActivity {
         setContentView(R.layout.activity_home_ui);
 
 
+        //测试git的检出和提交
+        String str = "我是谁";
+
        // ButterKnife.bind(this);
        // Activity
 
