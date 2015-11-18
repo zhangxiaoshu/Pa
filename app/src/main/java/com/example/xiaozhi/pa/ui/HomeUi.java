@@ -33,6 +33,8 @@ public class HomeUi extends AppCompatActivity {
 
         //测试git提交时项目冲突的解决方法
         String s3 = "你是谁，管你是谁，提交项目";
+        //测试git提交时项目冲突的解决方法4
+        String s4 = "你是谁4，管你是谁4，提交项目4";
 
        // ButterKnife.bind(this);
        // Activity
