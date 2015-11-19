@@ -28,39 +28,9 @@ public class HomeUi extends AppCompatActivity {
         setContentView(R.layout.activity_home_ui);
 
 
-        //测试git的检出和提交
-        String str = "我是谁";
-
-        //测试git提交时项目冲突的解决方法
-        String s3 = "你是谁，管你是谁，提交项目";
-        //测试git提交时项目冲突的解决方法4
-        String s4 = "你是谁4，管你是谁4，提交项目4";
-
-       // ButterKnife.bind(this);
-       // Activity
-
-        //测试git提交时项目冲突的解决方法5
-        String s5 = "你是谁5，管你是谁5，提交项目5";
-
-        //测试项目提交的冲突问题
-        String date = "周四_2";
-
-        //测试项目提交的冲突问题
-
-        String date3 = "周四_3";
-
-        String date4 = "周四_4";
-        //测试项目提交的冲突问题
-        String date5 = "周四_5";
-
-        int num2  = 10;
-
-
         ViewUtils.inject(this);
 
         //  mRgMenu = (RadioGroup) findViewById(R.id.home_rg_menu);
-
-        int num = 10;
 
         //事件初始化
         initEvent();
