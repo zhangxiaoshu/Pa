@@ -31,6 +31,8 @@ public class HomeUi extends AppCompatActivity {
 
         //  mRgMenu = (RadioGroup) findViewById(R.id.home_rg_menu);
 
+        int num = 10;
+
         //事件初始化
         initEvent();
 
