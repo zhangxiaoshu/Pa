@@ -55,6 +55,9 @@ public class HomeUi extends AppCompatActivity {
 
         int num  = 10;
 
+        //测试冲突
+        String s = "无用的代码删除成功了吗？";
+
 
         ViewUtils.inject(this);
 
