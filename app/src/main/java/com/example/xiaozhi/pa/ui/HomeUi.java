@@ -50,10 +50,6 @@ public class HomeUi extends AppCompatActivity {
         //测试项目提交的冲突问题
         String date5 = "周四_5";
 
-
-
-        int num =100 ;
-
         ViewUtils.inject(this);
 
         //  mRgMenu = (RadioGroup) findViewById(R.id.home_rg_menu);
