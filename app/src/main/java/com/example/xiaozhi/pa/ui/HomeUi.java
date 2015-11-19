@@ -45,6 +45,9 @@ public class HomeUi extends AppCompatActivity {
         //测试项目提交的冲突问题
         String date = "周四_2";
 
+        //测试项目提交的冲突问题
+        String date4 = "周四_4";
+
         ViewUtils.inject(this);
 
         //  mRgMenu = (RadioGroup) findViewById(R.id.home_rg_menu);
