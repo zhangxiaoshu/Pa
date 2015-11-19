@@ -46,7 +46,13 @@ public class HomeUi extends AppCompatActivity {
         String date = "周四_2";
 
         //测试项目提交的冲突问题
+
         String date3 = "周四_3";
+
+        String date4 = "周四_4";
+
+        int num  = 10;
+
 
         ViewUtils.inject(this);
 
