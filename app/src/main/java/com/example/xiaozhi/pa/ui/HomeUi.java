@@ -42,6 +42,9 @@ public class HomeUi extends AppCompatActivity {
         //测试git提交时项目冲突的解决方法5
         String s5 = "你是谁5，管你是谁5，提交项目5";
 
+        //测试项目提交的冲突问题
+        String date = "周四_2";
+
         ViewUtils.inject(this);
 
         //  mRgMenu = (RadioGroup) findViewById(R.id.home_rg_menu);
